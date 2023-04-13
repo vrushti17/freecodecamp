@@ -1,16 +1,17 @@
 # freecodecamp
 ## Projects
 
-+ survey Form <br>https://github.com/vrushti17/freecodecamp/survey-form/
++ survey Form <br>https://vrushti17.github.io/freecodecamp/flexbox/
 
 
 
 ## Practice Projets
-+ Cat Photo App<br>https://github.com/vrushti17/freecodecamp/CatPhotosApp/
-* Cafe menu<br>https://github.com/vrushti17/freecodecamp/2cafe_menu/
-- CSS color maker<br>https://github.com/vrushti17/freecodecamp/CSS_color_marker/
-* Registration form<br>https://github.com/vrushti17/freecodecamp/Registration_form/
-- Rothko Painting<br>https://github.com/vrushti17/freecodecamp/Rathko_painting
-* Flexbox <br>https://github.com/vrushti17/freecodecamp/flexbox/
-+ Nutrition label<br>https://github.com/vrushti17/freecodecamp/nutrition_label/
++ Cat Photo App<br>https://vrushti17.github.io/freecodecamp/flexbox/
+* Cafe menu<br>https://vrushti17.github.io/freecodecamp/flexbox/
+- CSS color maker<br>https://vrushti17.github.io/freecodecamp/flexbox/
+* Registration form<br>https://vrushti17.github.io/freecodecamp/flexbox/
+- Rothko Painting<br>https://vrushti17.github.io/freecodecamp/flexbox/
+* Flexbox <br>https://vrushti17.github.io/freecodecamp/flexbox/
++ Nutrition label<br>https://vrushti17.github.io/freecodecamp/flexbox/
+
 * HTML / CSS Quiz<br>
