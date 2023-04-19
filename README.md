@@ -2,7 +2,7 @@
 ## Projects
 
 + Survey Form <br>https://vrushti17.github.io/freecodecamp/survey-form/
-* Tribute Page <br> 
+* Tribute Page <br> https://vrushti17.github.io/freecodecamp/TributePage/
 
 
 ## Practice Projets
