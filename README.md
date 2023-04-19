@@ -1,7 +1,7 @@
 # freecodecamp
 ## Projects
 
-+ Survey Form <br>https://vrushti17.github.io/freecodecamp/survey_form/
++ Survey Form <br>https://vrushti17.github.io/freecodecamp/survey-form/
 * Tribute Page <br> 
 
 
