@@ -16,3 +16,7 @@
 
 * HTML / CSS Quiz<br>
 https://vrushti17.github.io/freecodecamp/quiz/
+* Balance sheet<br>
+https://vrushti17.github.io/freecodecamp/balance_sheet/
++ Picasso Painting<br>
+https://vrushti17.github.io/freecodecamp/picasso_painting/
